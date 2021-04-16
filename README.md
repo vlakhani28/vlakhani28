@@ -19,8 +19,7 @@
 ### 📫 How to reach me: 
 #### -> EMail    : vaibhav.l@somaiya.edu
 #### -> Twitter  : https://twitter.com/vlakhani28
-#### -> LinkedIn : https://linkedin.com/in/vlakhani28
-
+#### -> LinkedIn : https://linkedin.com/in/vaibhav-lakhani
 
 
 <!--
