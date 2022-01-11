@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am a pre-final year Computer Engineering student curious to learn new things in Cyber Security.
+### I am a final year Computer Engineering student curious to learn new things in Cyber Security.
 
 ### My Skills include
 #### -> VAPT 
