@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am a final year Computer Engineering student curious to learn new things in Cyber Security.
+### I am a Senior Security Consultant at Hacktify Cyber Security.
 
 ### My Skills include
 #### -> VAPT 
