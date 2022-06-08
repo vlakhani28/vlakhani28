@@ -17,7 +17,7 @@
 ### 👯 I’m looking to collaborate in Bug Bounty Hunting 
 
 ### 📫 How to reach me: 
-#### -> EMail    : vaibhav.l@somaiya.edu
+#### -> Email    : vlakhani28@gmail.com
 #### -> Twitter  : https://twitter.com/vlakhani28
 #### -> LinkedIn : https://linkedin.com/in/vaibhav-lakhani
 
