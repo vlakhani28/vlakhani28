@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am a Senior Security Consultant at Hacktify Cyber Security.
+### I am a Senior Security Analyst at Hacktify Cyber Security.
 
 ### My Skills include
 #### -> VAPT 
